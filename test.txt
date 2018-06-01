@@ -1,1 +1,1 @@
-I have successfully linked my Git to gitHub. First commit Yay!
+I have successfully linked Git to my gitHub account. First commit. Yay!
